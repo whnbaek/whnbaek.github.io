@@ -1,6 +1,7 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+title: Woohyeon Baek
+logo: /assets/img/logo.jpg
+github:
+  is_user_page: false
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
